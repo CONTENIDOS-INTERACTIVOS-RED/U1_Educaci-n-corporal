@@ -22,7 +22,7 @@
       .col-12.col-xl-8
         p.mb-4 La conciencia corporal es la capacidad de controlar el cuerpo y ejecutar movimientos coordinados y conscientes, permitiendo interactuar con el entorno de forma efectiva (Coaching, 2021). Esta habilidad es clave para el desarrollo motor, ya que forma el <b>esquema perceptivo-motriz</b>, base de la identidad personal.
         .mb-4.bg-amarillo.p-4(data-aos='fade-up') 
-          span Gutiérrez y Castillo (2014) destacan la <b>integración sensorial</b>como el proceso cerebral inconsciente que organiza la información de los sentidos. Esta integración, mediada por el sistema nervioso central (SNC), permite generar <b>respuestas adaptativas</b>, esenciales para el aprendizaje y la conducta social. Incluso funciones como el lenguaje dependen de esta coordinación sensoriomotriz.
+          span Gutiérrez y Castillo (2014) destacan la <b>integración sensorial</b> como el proceso cerebral inconsciente que organiza la información de los sentidos. Esta integración, mediada por el sistema nervioso central (SNC), permite generar <b>respuestas adaptativas</b>, esenciales para el aprendizaje y la conducta social. Incluso funciones como el lenguaje dependen de esta coordinación sensoriomotriz.
         span Durante la infancia, el desarrollo del control corporal se inicia con sensaciones básicas: tacto, movimiento, vista y oído. Los bebés comienzan a formar su esquema corporal identificando sus partes con ayuda del entorno (Coaching, 2021). Este proceso se estructura en dos fases principales:
       .col-4.d-none.d-xl-block
         img(src='@/assets/curso/unidad/img-4.png', alt='Texto que describa la imagen')
@@ -136,7 +136,7 @@
         .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
           h2.mb-4.pb-2.me-auto La Relevancia de la Percepción en el Movimiento
           p.mb-5(data-aos="fade-up") Se invita a leer el documento La Relevancia de la Percepción en el Movimiento, donde se analiza cómo la percepción sensorial influye directamente en la ejecución de los movimientos durante la primera infancia.
-          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+          a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_percepcion.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> La Relevancia de la Percepción en el Movimiento
         .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="zoom-in")

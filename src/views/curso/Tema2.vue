@@ -56,7 +56,7 @@
           .bg-amarillo.p-4(data-aos='fade-up')
             div.d-flex
               img(src='@/assets/componentes/arrow.svg', alt='Texto que describa la imagen' style='width: 16px').me-2.h-100.mt-2
-              p <b>Manipular objetos</b>y explorar el espacio permiten comprender conceptos como causa-efecto, tamaño, forma y distancia.
+              p <b>Manipular objetos</b> y explorar el espacio permiten comprender conceptos como causa-efecto, tamaño, forma y distancia.
             div.d-flex
               img(src='@/assets/componentes/arrow.svg', alt='Texto que describa la imagen' style='width: 16px').me-2.h-100.mt-2
               p <b>Participar en juegos colectivos</b> desarrolla habilidades como la categorización, la secuenciación y la anticipación de acciones.
@@ -390,8 +390,8 @@
         div.px-5.pb-md-3.py-4.d-flex
           .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto El cuerpo y el movimiento en relación hacia el entorno
-            p.mb-5(data-aos="fade-up") Se invita a leer el documento El cuerpo y el movimiento en relación hacia el entorno , donde se aborda el papel fundamental del cuerpo y el movimiento en el desarrollo integral de los niños y niñas durante la primera infancia.
-            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+            p.mb-5(data-aos="fade-up") Se invita a leer el documento El cuerpo y el movimiento en relación hacia el entorno, donde se aborda el papel fundamental del cuerpo y el movimiento en el desarrollo integral de los niños y niñas durante la primera infancia.
+            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_El cuerpo.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong>El cuerpo y el movimiento en relación hacia el entorno
           .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="zoom-in")
